@@ -59,9 +59,3 @@ The process of creating websites and web applications
 - Building your own features = grows **confidence + problem-solving skills**
 
 ---
-
-## ❓ Doubts
--
-
-## 🔁 What to Learn Tomorrow
--
