@@ -37,7 +37,7 @@ The process of creating websites and web applications
 
 ### 3. 🗄️ Database (DB) Layer
 - Responsible for **storing and retrieving** user data
-- Types: SQL, NoSQL, MongoDB
+- Types: SQL, NoSQL
 
 ---
 
