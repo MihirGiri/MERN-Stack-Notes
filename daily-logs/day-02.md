@@ -74,6 +74,7 @@ Browsers don't understand human-readable names like `www.facebook.com`
 
 ## 🔍 How DNS Works
 
+```
 www.facebook.com
        ↓
  DNS Server (DNR)
@@ -83,6 +84,7 @@ www.facebook.com
 Browser → Server
        ↓
   Page Loads ✅
+```
 
 | Term | Full Form | Role |
 |------|-----------|------|
