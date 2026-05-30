@@ -74,8 +74,6 @@ Browsers don't understand human-readable names like `www.facebook.com`
 
 ## 🔍 How DNS Works
 
-## 🔍 How DNS Works
-
 <p align="center">
   <img src="assets/dns-flow.png" width="500" alt="DNS Resolution Flow"/>
 </p>
